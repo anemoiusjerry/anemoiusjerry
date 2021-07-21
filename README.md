@@ -11,12 +11,20 @@ I have a wide range of coding projects from rigorous algorithms and data structu
 some exposure to machine learning and AI. My personal projects are listed below. Although not all of the code is on GitHub.
 
 Travel App - React Native
+
 Cosmetic Product Formulation MacOS app - Python (PyQt for UI, bundled via PyInstaller)
+
 Checkers variation AI - Python
+
 Gender Wage Gap Analysis - Python (Jupyter Notebook), Machine Learning
+
 Frogger Game - Java
+
 Rudimentary Spell Check - C
+
 Prosthetic Hand control algorithm (partial) - C++ (Arduino)
+
 Bluetooth controlled Robot - C++ (Arduino)
+
 PID ElectroMagnetic control loop - C++ (Arduino)
 
